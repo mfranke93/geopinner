@@ -1,0 +1,9 @@
+                               geopinner
+
+2022-03-08                                                        v0.1.0
+
+First public version. Uses `exiv2' and a temporary file with exiv2
+commands to modify the EXIF data.
+
+
+; vim: tw=72
